@@ -1,0 +1,132 @@
+export enum Color {
+
+  COLOR_LINK_QUILL = "#65BFFF",
+  BACKGROUND_COLOR = "#161925",
+  BUTTON_BLUE = '#238FDC',
+  BUTTON_BLUE_HOVER = "#38ABFE",
+  NAVIGATION_WRAPPER = '#030512',
+  NAVIGATION_WRAPPER_HOVER = '#202F40',
+
+  NAVIGATION_CIRCLE = '#303B72',
+
+  NAVIGATION_CIRCLE_HOVER = '#4B3199',
+  NAVIGATION_CIRCLE_INACTIVE = '#202332',
+
+  GREEN_CLAIM = '#27A559',
+  GREEN_CLAIM_HOVER = '#3BC773',
+  GREEN_CLAIM_DISABLED = '#0B612D',
+  BUTTON_DISABLED = 'rgba(255, 255, 255, 0.5)',
+  BUTTON_DISABLED_TEXT = 'rgba(255, 255, 255, 0.6)',
+  TAG_HOVER = '#003154',
+  SUCCESS_GREEN = '#54E98F',
+
+  LINE_BALANCE='#34485E',
+  WARNING_YELLOW='#FFE176',
+  WARNING_YELLOW80='rgba(255, 225, 118, 0.8)',
+  WARNING_YELLOW40='rgba(255, 225, 118, 0.4)',
+
+  UNCLAIMED_STATUS = '#FFE176',
+
+  SECONDARY = "#FFF",
+  PRIMARY = "#364159",
+  VIOLET = "#7B61FF",
+  BRIGHT_GRAY = "#F3F6F8",
+  ACCENT = "#596FFF",
+
+  COLOR_BLUE_TAG='#BEE4FF',
+
+  BORDER_GRAY = "#AFB3BD",
+  INACTIVE_STATUS = "#F5841F",
+  GRAY = '#D9D9D9',
+  TOOLTIP80 = 'rgba(10, 12, 20, 0.8)',
+
+  // UI COLORS with transparency
+  PRIMARY90 = "rgba(54, 65, 89, 0.9)",
+  PRIMARY80 = "rgba(54, 65, 89, 0.8)",
+  PRIMARY60 = "rgba(54, 65, 89, 0.6)",
+  PRIMARY40 = "rgba(54, 65, 89, 0.4)",
+  PRIMARY30 = "rgba(54, 65, 89, 0.3)",
+  PRIMARY20 = "rgba(54, 65, 89, 0.2)",
+  PRIMARY10 = "rgba(54, 65, 89, 0.1)",
+  PRIMARY05 = "rgba(54, 65, 89, 0.05)",
+  SECONDARY90 = "rgba(255, 255, 255, 0.9)",
+  SECONDARY80 = "rgba(255, 255, 255, 0.8)",
+  SECONDARY60 = "rgba(255, 255, 255, 0.6)",
+  SECONDARY50 = "rgba(255, 255, 255, 0.5)",
+  SECONDARY40 = "rgba(255, 255, 255, 0.4)",
+  SECONDARY30 = "rgba(255, 255, 255, 0.3)",
+  SECONDARY20 = "rgba(255, 255, 255, 0.2)",
+  SECONDARY10 = "rgba(255, 255, 255, 0.1)",
+  SECONDARY08 = "rgba(255, 255, 255, 0.08)",
+  SECONDARY05 = "rgba(255, 255, 255, 0.05)",
+  ACCENT90 = "rgba(89, 111, 255, 0.9)",
+  ACCENT80 = "rgba(89, 111, 255, 0.8)",
+  ACCENT60 = "rgba(89, 111, 255, 0.6)",
+  ACCENT40 = "rgba(89, 111, 255, 0.4)",
+  ACCENT30 = "rgba(89, 111, 255, 0.3)",
+  ACCENT20 = "rgba(89, 111, 255, 0.2)",
+  ACCENT10 = "rgba(89, 111, 255, 0.1)",
+  ACCENT05 = "rgba(89, 111, 255, 0.05)",
+
+  // CORE COLORS
+  BLACK_MAMBA = "#000000",
+  // Creative Contrast
+  DAGOBAH_FOREST = "#003333",
+  CHROME_ORANGE = "#FF9900",
+  CHROME_ORANGE20 = "rgba(255, 153, 0, 0.2)",
+
+  // Energetic Contrast
+  RED_HOT_HOOD = "#E55A5A",
+  MR_WOLF = "#330033",
+
+  // Energetic Contrast with transparency
+  RED_HOT_HOOD50 = "rgba(255,51,0,0.5)",
+
+  // Techy Contrast
+  COLD_FUSION = "#6666FF",
+  BLUEBERRY = "#330066",
+
+  // OTHER COLORS
+  HOT_MAGENTA = "#FF3366",
+  BURNING_ORANGE = "#FF6600",
+  LEMON_YELLOW = "#FFCC00",
+  LASER_YELLOW = "#FFFF00",
+  KRYPTONITE_GREEN = "#CCFF00",
+  //   GREEN = "#66FF66",
+  CRAZY_CYAN = "#66FFFF",
+  EXOPLANET_BLUE = "#66CCFF",
+  PURPLE = "#9999FF",
+  PURPLE_RAIN = "#9966FF",
+  AEROSMITH_PINK = "#FF66FF",
+
+  WARNING_DOWNLOAD = "rgba(255, 153, 0, 0.1)",
+
+  BORDER_COLOR = "#dfe0e6",
+
+  BLACK = "#000000",
+  BLACK50 = "rgba(0, 0, 0, 0.5)",
+  //   PRIMARY = "#1C1C1F",
+  GREY = "#6C6C6C",
+
+  VIOLET_INTENSIVE = "#5337C3",
+
+  GREY_LIGHT = "#E5E5E5",
+  GREY_LINK = "#4D4D4D",
+
+  VIOLET_HOVER = "#8572e6",
+  VIOLET_LIGHT = "#F3F0FF",
+  BLUE_DARK = "#32303B",
+
+  CONNECT = "#E44B31",
+  //   PRIMARY60 = "rgba(54, 65, 89, 0.6)",
+
+  GREEN = "#5FCB8A",
+
+  PISTACHIO_2 = "#BFEAD0",
+  PISTACHIO = "#5FCB8A",
+  ORANGE_LIGHT = "#FBCEA5",
+  ORANGE_DARK = "#F5841F",
+
+  GREY_BG = "#414763",
+  GOLD_ROCKET = "#FFE391",
+}
